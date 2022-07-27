@@ -1,5 +1,5 @@
 <code>🎓 Junior</code>
-<code>👷 Speciality: Backend</code><br>
+<code>👷 Speciality: Backend</code>
 <code>🧑‍💻 Languages: JavaScript</code>
 <code>📦 Tech stack: node.js</code>
 <code>⚪ Community: Metarhia</code>
