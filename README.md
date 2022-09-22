@@ -1,6 +1,6 @@
-<code>🎓 Junior</code>
+<code>🎓 Middle</code>
 <code>👷 Speciality: Backend</code>
-<code>🧑‍💻 Languages: JavaScript</code>
+<code>🧑‍💻 Languages: JavaScript | TypeScript</code>
 <code>📦 Tech stack: node.js</code>
 <code>⚪ Community: Metarhia</code><br>
 <code>🧻 [Projects](PROJECTS.md)</code>
