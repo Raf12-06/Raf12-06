@@ -1,6 +1,6 @@
 <code>🎓 Middle</code>
 <code>👷 Speciality: Backend</code>
-<code>🧑‍💻 Languages: JavaScript | TypeScript</code>
+<code>🧑‍💻 Languages: JavaScript</code>
 <code>📦 Tech stack: node.js</code><br>
 <code>⚪ Community: Metarhia</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
